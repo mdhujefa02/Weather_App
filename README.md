@@ -57,4 +57,9 @@ Frontend Development: Created a responsive and interactive user interface using 
 Backend Development: Handled API requests and responses using JSP and Servlets.
 API Integration: Integrated OpenWeatherMap API to fetch real-time weather data.
 
+# Output:
+![Screenshot 2025-02-07 124746](https://github.com/user-attachments/assets/c9265f3f-1b79-4908-8ce8-509f41faf817)
+![Screenshot 2025-02-07 124845](https://github.com/user-attachments/assets/c34e65df-6c53-4e7a-af2c-9aba19fb75f0)
+
+
 # Thank you for visiting the project. Happy coding!
