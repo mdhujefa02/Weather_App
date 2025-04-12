@@ -58,7 +58,8 @@ Backend Development: Handled API requests and responses using JSP and Servlets.
 API Integration: Integrated OpenWeatherMap API to fetch real-time weather data.
 
 # Output:
-![Screenshot 2025-04-08 132051](https://github.com/user-attachments/assets/619b0302-7bfa-4a67-ace2-9cceeb9c3cf1)
+![Weather1](https://github.com/user-attachments/assets/619d47cf-3ab9-4fa6-a9da-562e2187d71e)
+
 ![Screenshot 2025-04-08 132112](https://github.com/user-attachments/assets/1401495f-7c6a-4c1e-81cf-6d69fbfbcfa6)
 
 
