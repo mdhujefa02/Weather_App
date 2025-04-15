@@ -10,9 +10,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(180deg,rgb(23, 5, 252),white,rgb(89, 67, 243));
+  background-image: url(image/Cloud.jpg);
+  background-size: cover;
+  background-repeat: no-repeat; 
+  background-position: center; 
 }
-
 .mainContainer {
   width: 25rem;
   height: auto;
